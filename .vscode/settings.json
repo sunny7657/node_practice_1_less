@@ -1,0 +1,16 @@
+{
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "selection",
+    "editor.colorDecorators": true,
+    "editor.glyphMargin": false,
+    "editor.guides.indentation": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderFinalNewline": "on",
+    "editor.renderLineHighlightOnlyWhenFocus": false,
+    "diffEditor.renderIndicators": true,
+    "diffEditor.renderMarginRevertIcon": true,
+    "editor.minimap.side": "right",
+    "workbench.experimental.share.enabled": false,
+    "workbench.tree.renderIndentGuides": "none"
+}
